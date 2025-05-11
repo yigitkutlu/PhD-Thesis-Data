@@ -1,3 +1,10 @@
+## 📄 License
+
+This dataset is shared under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to use, share, and adapt the material as long as proper credit is given.
+
+© 2025 Yiğit Kutlu
+
 This repository contains supplementary data associated with the thesis "Deciphering the Links Between Protein Dynamics and Evolution" by Yiğit Kutlu. The datasets support the analyses described in Sections 4.1–4.3 of the thesis and are shared here for transparency, reproducibility, and future reuse by the scientific community.
 
 📁 Folder: Binding
